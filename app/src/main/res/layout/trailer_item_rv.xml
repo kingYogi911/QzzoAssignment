@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<LinearLayout
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:src="@drawable/ic_launcher_background"
+        android:id="@+id/trailer_thumbnail_image"
+        android:scaleType="fitXY"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:contentDescription="@string/thumbnail_image" />
+    <TextView
+        android:id="@+id/trailer_item_tarailer_count"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+</LinearLayout>
+</androidx.cardview.widget.CardView>

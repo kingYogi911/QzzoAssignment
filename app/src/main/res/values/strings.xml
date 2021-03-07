@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Qzzo</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="movie_poster">Movie Poster</string>
+    <string name="trailers">Trailers:</string>
+    <string name="reviews">Reviews:</string>
+    <string name="language">Language:</string>
+    <string name="release_data">Release Data:</string>
+    <string name="popularity">Popularity:</string>
+    <string name="average_rating">Average Rating:</string>
+    <string name="vote_count">Vote Count:</string>
+    <string name="thumbnail_image">Thumbnail Image</string>
+    <string name="overview">Overview:</string>
+    <string name="add_to_favourite">Add to favourites</string>
+</resources>
